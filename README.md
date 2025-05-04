@@ -1,7 +1,3 @@
-Here’s a simple and clear `README.md` for your `java_to_json` project:
-
----
-
 ### 📦 Java to JSON Converter (Using Jackson)
 
 This is a lightweight Java module that allows you to convert Java objects to JSON and vice versa using the [Jackson](https://github.com/FasterXML/jackson) library. It includes support for reading/writing JSON from strings and files, and even lists of objects.
@@ -73,7 +69,3 @@ List from JSON: [Person{name='Bob', age=22}, Person{name='Carol', age=33}]
 - Modify `Person.java` to use your own model
 - Add more utility methods to `JsonUtil` if needed
 - Replace Jackson with your own parser if needed for licensing/customization
-
----
-
-Let me know if you want this saved as a `.md` file or want to add a license, badges, or GitHub usage instructions.
